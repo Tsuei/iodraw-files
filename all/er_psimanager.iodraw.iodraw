@@ -20,10 +20,10 @@
           <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-6" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-7" value="出货单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-8" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="690" width="120" height="60" as="geometry" />
@@ -155,18 +155,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-8" value="下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="555" width="80" height="65" as="geometry" />
+          <mxGeometry x="330" y="555" width="80" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tkMj2K8XO0Xe-9YBn3KI-8" target="FSHOzYPgNNjSKO_9zGSn-6">
+        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-9" value="1" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tkMj2K8XO0Xe-9YBn3KI-8" target="FSHOzYPgNNjSKO_9zGSn-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="670" as="sourcePoint" />
             <mxPoint x="610" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="588" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-7" target="tkMj2K8XO0Xe-9YBn3KI-8">
+        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-10" value="n" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-7" target="tkMj2K8XO0Xe-9YBn3KI-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="660" as="sourcePoint" />
             <mxPoint x="460" y="610" as="targetPoint" />
