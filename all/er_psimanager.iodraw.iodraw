@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-20" value="销售" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tkMj2K8XO0Xe-9YBn3KI-20" target="FSHOzYPgNNjSKO_9zGSn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
             <mxPoint x="450" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tkMj2K8XO0Xe-9YBn3KI-12" target="tkMj2K8XO0Xe-9YBn3KI-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="530" as="sourcePoint" />
             <mxPoint x="520" y="480" as="targetPoint" />
