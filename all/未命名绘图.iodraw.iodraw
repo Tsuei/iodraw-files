@@ -45,17 +45,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FSHOzYPgNNjSKO_9zGSn-14" value="n" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-11" target="FSHOzYPgNNjSKO_9zGSn-3">
+        <mxCell id="FSHOzYPgNNjSKO_9zGSn-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-11" target="FSHOzYPgNNjSKO_9zGSn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="360" as="sourcePoint" />
             <mxPoint x="340" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="300" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FSHOzYPgNNjSKO_9zGSn-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FSHOzYPgNNjSKO_9zGSn-14">
-          <mxGeometry x="0.1869" y="1" relative="1" as="geometry">
+        <mxCell id="FSHOzYPgNNjSKO_9zGSn-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FSHOzYPgNNjSKO_9zGSn-14">
+          <mxGeometry x="0.0141" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
