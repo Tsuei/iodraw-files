@@ -16,9 +16,6 @@
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-4" value="进货单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSHOzYPgNNjSKO_9zGSn-5" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-6" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -173,7 +170,7 @@
           <mxGeometry x="700" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-13" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="560" width="80" height="60" as="geometry" />
+          <mxGeometry x="580" y="560" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-15" value="1" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-7" target="tkMj2K8XO0Xe-9YBn3KI-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
