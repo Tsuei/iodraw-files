@@ -8,13 +8,13 @@
           <mxGeometry x="140" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-2" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-3" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-4" value="进货单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-6" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="555" width="120" height="60" as="geometry" />
@@ -86,14 +86,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-24" value="提供" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="130" width="80" height="60" as="geometry" />
+          <mxGeometry x="260" y="140" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="FSHOzYPgNNjSKO_9zGSn-24" target="FSHOzYPgNNjSKO_9zGSn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="220" as="sourcePoint" />
-            <mxPoint x="260" y="170" as="targetPoint" />
+            <mxPoint x="210" y="230" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="140" />
+              <mxPoint x="250" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,8 +104,8 @@
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-26" value="n" style="endArrow=none;html=1;rounded=0;" parent="1" source="FSHOzYPgNNjSKO_9zGSn-24" target="FSHOzYPgNNjSKO_9zGSn-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="250" as="sourcePoint" />
-            <mxPoint x="450" y="200" as="targetPoint" />
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -117,11 +117,9 @@
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-2" value="1" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="300" as="sourcePoint" />
-            <mxPoint x="520" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="190" />
-            </Array>
+            <mxPoint x="455" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="200" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-3" value="n" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-30" target="FSHOzYPgNNjSKO_9zGSn-29">
