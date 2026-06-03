@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-1" value="商品类别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-2" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
@@ -190,10 +190,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-23" value="职员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-24" value="录入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-26" value="录入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="80" height="80" as="geometry" />
