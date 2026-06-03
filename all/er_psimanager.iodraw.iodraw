@@ -8,7 +8,7 @@
           <mxGeometry x="140" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-2" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-3" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-24" value="提供" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="90" width="80" height="60" as="geometry" />
+          <mxGeometry x="280" y="110" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="FSHOzYPgNNjSKO_9zGSn-24" target="FSHOzYPgNNjSKO_9zGSn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
