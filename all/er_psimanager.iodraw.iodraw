@@ -119,7 +119,7 @@
           <mxGeometry x="655" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-30" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="FSHOzYPgNNjSKO_9zGSn-4" target="FSHOzYPgNNjSKO_9zGSn-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-5" value="采购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="540" y="290" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tkMj2K8XO0Xe-9YBn3KI-5" target="FSHOzYPgNNjSKO_9zGSn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
