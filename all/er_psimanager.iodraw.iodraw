@@ -22,9 +22,6 @@
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-7" value="出货单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSHOzYPgNNjSKO_9zGSn-9" value="职员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FSHOzYPgNNjSKO_9zGSn-11" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="325" width="80" height="60" as="geometry" />
         </mxCell>
@@ -197,6 +194,9 @@
         </mxCell>
         <mxCell id="tkMj2K8XO0Xe-9YBn3KI-24" value="录入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkMj2K8XO0Xe-9YBn3KI-26" value="录入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
